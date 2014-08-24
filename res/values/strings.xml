@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InterestingNotes</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="note_title_hint">Enter a title for the note</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_details_label">Details</string>
+    <string name="note_solved_label">Solved?</string>
+    <string name="notes_title">Notes</string>
+
+</resources>
